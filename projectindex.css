@@ -1,44 +1,4 @@
- /*
-  .sec{
-    color: brown;
-    text-align: center;
-  }
-  .tan{
-    color: darkblue;
-    text-align: center;
-  }
-  #pos{
-    color: darkorchid;
-    text-align: center;
-    font-weight: bold;
-    font-style: italic;
-    font-size: 50px;
-    font-family: 'Anton', sans-serif;
-  }
-  #foot{
-    color: deeppink;
-    font-style: oblique;
-    text-transform: capitalize;
-    text-align: center;
-    font-size: 25px;
-  }
-  */
-  /*calculator css
-  h1{
-    text-align: center;
-    text-decoration: underline;
-    color: blueviolet ;
-  }
-  div{
-    box-sizing: border-box;
-    background-color: wheat;
-    border: 3px solid black;
-text-align: center;
-color: teal;
-font-size: 50px;
-font-weight: 400;
-  }
-*/
+
 *{
     box-sizing: border-box;
     padding: 0px;
